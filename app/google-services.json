@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "485758369102",
+    "firebase_url": "https://chirag-2018.firebaseio.com",
+    "project_id": "chirag-2018",
+    "storage_bucket": "chirag-2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485758369102:android:a29e2369ef44af82b2721f",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationchirag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485758369102-ugoacb4ms8pos3o4h66qfsbi32mc5eda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplicationchirag",
+            "certificate_hash": "0b9f5bb8154ed247a07a2b370b3e45ed89390933"
+          }
+        },
+        {
+          "client_id": "485758369102-i478ctj64akg672dq10k961udepligsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9u7rtYSzYGgWj0tNDb7bELDGNuh7nATo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485758369102-i478ctj64akg672dq10k961udepligsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
